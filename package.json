@@ -1,0 +1,15 @@
+{
+  "name": "welcomebot",
+  "version": "1.0.0",
+  "description": "Selfbot para enviar mensagem quando alguém entra no servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NewLayer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.15.0"
+  }
+}
