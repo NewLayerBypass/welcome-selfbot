@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "guildId": "",
-    "channelId": "",
-    "botId": ""
+    "token": "TOKEN_DO_BOT",
+    "guildId": "ID_DO_SERVIDOR",
+    "channelId": "ID_DO_CHAT_ONDE_O_BOT_MANDA_BEM_VINDO",
+    "botId": "ID_DO_BOT_QUE_MANDA_BEM_VINDO"
 }
